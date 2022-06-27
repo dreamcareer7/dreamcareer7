@@ -35,9 +35,8 @@
 
 <br />
 
-<a href="https://www.darkmatterdefi.com/" _target="new">
-  <img align="left" src="https://github.com/dreamcareer7/dreamcareer7/blob/main/img/darkmatter.png" width=400 />
-</a>
+  [<img align="left" src="https://github.com/dreamcareer7/dreamcareer7/blob/main/img/darkmatter.png" width=400 />](https://www.darkmatterdefi.com)
+
 
 <a href="https://www.fileevictions.com/" target="_blank">
   <img align="right" src="https://github.com/dreamcareer7/dreamcareer7/blob/main/img/fileevictions.png" width="400" />
