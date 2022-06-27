@@ -40,11 +40,11 @@
 </a>
 
 
-<a href="https://www.fileevictions.com/">
+<a href="https://fileevictions.com/">
   <img align="right" src="https://github.com/dreamcareer7/dreamcareer7/blob/main/img/fileevictions.png" width="400" />
 </a>
 
-<a href="https://www.apps.arksstech.com/">
+<a href="http://apps.arksstech.com/">
   <img align="left" src="https://github.com/dreamcareer7/dreamcareer7/blob/main/img/HRMS.png" width="370" />
 </a>
 
