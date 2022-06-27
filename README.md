@@ -44,7 +44,7 @@
 </a>
 
 <a href="https://www.apps.arksstech.com/">
-  <img align="left" src="https://github.com/dreamcareer7/dreamcareer7/blob/main/img/HRMS.png" width="350" />
+  <img align="left" src="https://github.com/dreamcareer7/dreamcareer7/blob/main/img/HRMS.png" width="420" />
 </a>
 
 <a href="https://www.traderjoexyz.com/">
