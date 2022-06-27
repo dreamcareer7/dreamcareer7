@@ -35,19 +35,19 @@
 
 <br />
 
-<a href="https://www.darkmatterdefi.com/">
+<a href="https://www.darkmatterdefi.com/" target="_blank">
   <img align="left" src="https://github.com/dreamcareer7/dreamcareer7/blob/main/img/darkmatter.png" width=400 />
 </a>
 
-<a href="https://www.fileevictions.com/">
+<a href="https://www.fileevictions.com/" target="_blank">
   <img align="right" src="https://github.com/dreamcareer7/dreamcareer7/blob/main/img/fileevictions.png" width="400" />
 </a>
 
-<a href="https://www.apps.arksstech.com/">
+<a href="https://www.apps.arksstech.com/" target="_blank">
   <img align="left" src="https://github.com/dreamcareer7/dreamcareer7/blob/main/img/HRMS.png" width="370" />
 </a>
 
-<a href="https://www.traderjoexyz.com/">
+<a href="https://www.traderjoexyz.com/" target="_blank">
   <img align="right" src="https://github.com/dreamcareer7/dreamcareer7/blob/main/img/trador joe.png" width="400" />
 </a>
 
