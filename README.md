@@ -33,8 +33,21 @@
 
 ⭐️ Recent projects in which I have contributed :rocket:
 
+<br />
 
-<a href="https://github.com/RocketChat/Rocket.Chat.Android">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=RocketChat&repo=Rocket.Chat.Android" />
+<a href="https://www.darkmatterdefi.com/">
+  <img align="left" src="https://github.com/dreamcareer7/dreamcareer7/blob/main/img/darkmatter.png" width="500" />
+</a>
+
+<a href="https://www.fileevictions.com/">
+  <img align="right" src="https://github.com/dreamcareer7/dreamcareer7/blob/main/img/fileevictions.png" width="500" />
+</a>
+
+<a href="https://www.apps.arksstech.com/">
+  <img align="left" src="https://github.com/dreamcareer7/dreamcareer7/blob/main/img/HRMS.png" width="500" />
+</a>
+
+<a href="https://www.traderjoexyz.com/">
+  <img align="right" src="https://github.com/dreamcareer7/dreamcareer7/blob/main/img/trador joe.png" width="500" />
 </a>
 
