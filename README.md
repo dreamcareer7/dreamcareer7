@@ -31,11 +31,11 @@
 
 <br />
 
-⭐️ Recent projects in which I have contributed :rocket:
+⭐️ **Recent projects in which I have contributed** :rocket:
 
 <br />
 
-<a href="https://www.darkmatterdefi.com/">
+<a href="https://www.darkmatterdefi.com/">darkmatter
   <img align="left" src="https://github.com/dreamcareer7/dreamcareer7/blob/main/img/darkmatter.png" width=450 />
 </a>
 
