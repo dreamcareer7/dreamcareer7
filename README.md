@@ -35,7 +35,7 @@
 
 <br />
 
-<a href="[https://www.darkmatterdefi.com/](https://www.darkmatterdefi.com/)">
+<a href="[https://www.darkmatterdefi.com/]">
   <img align="left" src="https://github.com/dreamcareer7/dreamcareer7/blob/main/img/darkmatter.png" width=400 />
 </a>
 
