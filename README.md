@@ -1,4 +1,4 @@
-### Hi 👋, I'm [a Passionate Full Stack Engineer!](https://github.com/dreamcareer7)
+### Hi 👋, I'm [a Passionate Full Stack Engineer!](https://github.com/dreamcareer7) who has over 7 years of experience in full stack web development.
 
 <br />
 <br />
