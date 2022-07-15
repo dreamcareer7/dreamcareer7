@@ -10,7 +10,6 @@ I am passionate about learning, expanding my knowledge, building high quality so
 - 🥇 I am a two time Google Summer of Code Student (19 & 20)  👨🏽‍💻 [@Rocket.Chat](https://rocket.chat/)
 - 🎓 Google Summer of Code Mentor 👨🏽‍💼[@Rocket.Chat](https://rocket.chat/)
 - 👨‍💻 Software Engineer Intern'20 [@Urban Company](https://www.urbancompany.com/)
-- 👨‍💻 Software Engineer Intern'20 [@Headout](https://www.headout.com/)
 - 👨‍💻 Software Developer Intern'19 [@AntraxLabs](https://www.antraxlabs.com/)
 - 🌱 Former Lead at Developer Student Club [@DSCIIITL](https://dsciiitl.tech/)
 - 💬 Ask me about anything, I am happy to help
