@@ -1,4 +1,6 @@
-### Hi 👋, I'm [a Passionate Full Stack Engineer!](https://github.com/dreamcareer7) who has over 7 years of experience in full stack web development.
+### Hi 👋, I'm [a Software Engineer](https://github.com/dreamcareer7) with 7+ years of professional experience working on enterprise and startup projects.
+<br />
+I am passionate about learning, expanding my knowledge, building high quality software and automation.
 
 <br />
 <br />
