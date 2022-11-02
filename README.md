@@ -40,11 +40,6 @@ I am passionate about learning, expanding my knowledge, building high quality so
   <img align="left" src="https://github.com/dreamcareer7/dreamcareer7/blob/main/img/darkmatter.png" width=400 />
 </a>
 
-
-<a href="https://fileevictions.com/">
-  <img align="right" src="https://github.com/dreamcareer7/dreamcareer7/blob/main/img/fileevictions.png" width="400" />
-</a>
-
 <a href="http://apps.arksstech.com/">
   <img align="left" src="https://github.com/dreamcareer7/dreamcareer7/blob/main/img/HRMS.png" width="370" />
 </a>
