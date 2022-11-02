@@ -36,9 +36,9 @@ I am passionate about learning, expanding my knowledge, building high quality so
 
 <br />
 
-<a href="https://www.darkmatterdefi.com/"></a>
+<a href="https://www.darkmatterdefi.com/">Dark Matter</a>
 
-<a href="http://apps.arksstech.com/"></a>
+<a href="http://apps.arksstech.com/">HRMS</a>
 
-<a href="https://www.traderjoexyz.com/"></a>
+<a href="https://www.traderjoexyz.com/">Trader Joe</a>
 
