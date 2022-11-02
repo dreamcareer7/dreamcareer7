@@ -25,6 +25,7 @@ I am passionate about learning, expanding my knowledge, building high quality so
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
@@ -37,9 +38,9 @@ I am passionate about learning, expanding my knowledge, building high quality so
 
 <br />
 
-<a href="https://www.darkmatterdefi.com/">Dark Matter</a>
+<a href="https://www.darkmatterdefi.com/" target="_blank">Dark Matter</a>
 
-<a href="http://apps.arksstech.com/">HRMS</a>
+<a href="http://apps.arksstech.com/" target="_blank">HRMS</a>
 
-<a href="https://www.traderjoexyz.com/">Trader Joe</a>
+<a href="https://www.traderjoexyz.com/" target="_blank">Trader Joe</a>
 
