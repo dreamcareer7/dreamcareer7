@@ -36,15 +36,9 @@ I am passionate about learning, expanding my knowledge, building high quality so
 
 <br />
 
-<a href="https://www.darkmatterdefi.com/">
-  <img align="left" src="https://github.com/dreamcareer7/dreamcareer7/blob/main/img/darkmatter.png" width=400 />
-</a>
+<a href="https://www.darkmatterdefi.com/"></a>
 
-<a href="http://apps.arksstech.com/">
-  <img align="left" src="https://github.com/dreamcareer7/dreamcareer7/blob/main/img/HRMS.png" width="370" />
-</a>
+<a href="http://apps.arksstech.com/"></a>
 
-<a href="https://www.traderjoexyz.com/">
-  <img align="right" src="https://github.com/dreamcareer7/dreamcareer7/blob/main/img/trador joe.png" width="400" />
-</a>
+<a href="https://www.traderjoexyz.com/"></a>
 
