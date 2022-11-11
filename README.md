@@ -1,4 +1,4 @@
-### Hi 👋, I'm [a Software Engineer](https://github.com/dreamcareer7) with 7+ years of professional experience working on enterprise and startup projects.
+### Hi 👋, I'm [a Full Stack Engineer](https://github.com/dreamcareer7) with 8+ years of professional experience working on enterprise and startup projects.
 <br />
 I am passionate about learning, expanding my knowledge, building high quality software and automation.
 
@@ -38,9 +38,11 @@ I am passionate about learning, expanding my knowledge, building high quality so
 
 <br />
 
-<a href="https://www.darkmatterdefi.com/">Dark Matter</a>
+<a href="https://rechat.com/">Rechat</a>
+
+<a href="https://fileevictions.com/">FileEviction</a>
 
 <a href="http://apps.arksstech.com/">HRMS</a>
 
-<a href="https://www.traderjoexyz.com/">Trader Joe</a>
+...
 
